@@ -1,0 +1,9 @@
+.centered-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  .centered-page__content {
+    text-align: center;
+  }
